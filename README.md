@@ -41,3 +41,18 @@ show what it should or should not be shown.
 There are 2 main modules
 1. Parent Module
 2. Child Module
+
+First and the foremost the new user to the application will be a
+parent. He/She will register to the application first.
+Then parent will login to the system.
+Parent can perform many functions including adding a child, deleting
+the child already added, adding interests of the child based on
+category, view the child profile and interests, Enable and disable the
+application from child whenever necessary.
+
+Child can login to the system with the credentials provided.
+Child can view their profile and view recommendations related to
+added interests and tags.
+Here YouTube videos are filtered and played using 2 main tools.
+1. youtube-search-python
+2. YouTube Android Player API
