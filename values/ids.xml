@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextPassword3" type="id" />
+    <item name="editTextTextPassword2" type="id" />
+    <item name="button3" type="id" />
+    <item name="editTextTextEmailAddress2" type="id" />
+    <item name="editTextTextPersonName8" type="id" />
+    <item name="editTextTextPersonName7" type="id" />
+    <item name="editTextTextPersonName6" type="id" />
+    <item name="editTextNumber2" type="id" />
+    <item name="radioGroup2" type="id" />
+    <item name="editTextNumber" type="id" />
+    <item name="editTextTextPersonName3" type="id" />
+    <item name="imageView" type="id" />
+</resources>
