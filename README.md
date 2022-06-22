@@ -26,24 +26,18 @@ If there is content that is aggressive in that description, it can only
 show what it should or should not be shown. 
 
 1) SOFTWARE REQUIREMENTS :
+
 • Operating System:Windows 8 or above
+
 • Front End:android
+
 • Back End:python and Mysql
+
 • IDE:pycharm
+
 • Framework:Flask
 
 
 There are 2 main modules
 1. Parent Module
 2. Child Module
-Parents
-1. Signup
-2. Login
-3. Add Children
-4. Add Interests
-5. View Added interest
-Children
-1. View Profile
-2. View Recommendations related to added interest and tags
-3. Filtering of videos based on video description words using NLP
-4. View videos
